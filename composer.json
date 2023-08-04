@@ -1,17 +1,17 @@
 {
-    "name": "mehedi-iitdu/core-component-repository",
+    "name": "cgdev23/core-component-repository",
     "description": "My awesome package",
     "keywords": [
-        "mehedi-iitdu",
+        "cgdev23",
         "core-component-repository"
     ],
-    "homepage": "https://github.com/mehedi-iitdu/core-component-repository",
+    "homepage": "https://github.com/cgdev23/core-component-repository",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Mehedi Hasan",
-            "email": "bsse0607@iit.du.ac.bd",
+            "name": "Rattanak",
+            "email": "rattanak.dev@gmail.com",
             "role": "Developer"
         }
     ],
